@@ -29,4 +29,4 @@ zl.penup()
 zl.goto(-300,300)
 zl.pendown()
 
-#dywan_sierpinskiego(zl, 3, 500)
+dywan_sierpinskiego(zl, 3, 500)
